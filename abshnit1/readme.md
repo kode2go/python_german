@@ -4,7 +4,7 @@ Natürlich, die Basics in Python umfassen Dinge wie Variablen, Datentypen (wie S
 
 # Variables - Variablen
 
-Super! Variablen in Python sind wie Behälter, in denen du Daten speichern kannst. Du kannst ihnen Namen geben und Werte zuweisen, zum Beispiel `x = 5` oder `name = "Alice"`. Du kannst dann auf diese Variablen zugreifen und sie im Programm verwenden. Wenn du Variablen mit unterschiedlichen Datentypen wie Zahlen, Texten oder Listen brauchst, kannst du diese einfach zuweisen. Es ist wirklich flexibel und einfach zu nutzen.
+Super! Variablen in Python sind wie Behälter, in denen du Daten speichern kannst. Du kannst ihnen Namen geben und Werte zuweisen, zum Beispiel `x = 5` oder `name = "Alice"`. Alice hat doppelte Anführungszeichen. Du kannst dann auf diese Variablen zugreifen und sie im Programm verwenden. Wenn du Variablen mit unterschiedlichen Datentypen wie Zahlen, Texten oder Listen brauchst, kannst du diese einfach zuweisen. Es ist wirklich flexibel und einfach zu nutzen.
 
 # Data Types - Datentypen
 
