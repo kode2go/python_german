@@ -124,6 +124,20 @@ Das ist ein einfaches Beispiel, um mit Daten zu arbeiten.
 
 # Besprechen
 
+Natürlich, das kann ich machen! Was möchtest du über Python Programmierung wissen?
+
+Viel Erfolg beim Deutschlernen! Wenn du Fragen zur Python Programmierung hast, helfe ich dir gerne weiter. Was möchtest du als Nächstes lernen?
+
+Ja, was möchtest du wissen?
+
+Danke, dir auch! Wenn du noch Fragen hast, lass es mich wissen!
+
+Kein Problem! Du kannst sagen: „Ich möchte einen Python-Kurs auf Deutsch machen.“ Viel Erfolg!
+
+Das klingt spannend! 
+
+Das ist eine gute Idee.
+
 "Gern geschehen! „Simple“ bedeutet auf Deutsch „einfach“. Also, ein einfaches Beispiel ist
 
 "Python" bleibt auf Deutsch genauso. Es wird einfach "Python" ausgesprochen und geschrieben
