@@ -28,6 +28,25 @@ für eine Liste verwenden.
 
 Wenn du möchtest, können wir tiefer in einen dieser Datentypen einsteigen.
 
+# Dictionary
+
+Natürlich, hier ist eine vollständige Erklärung auf Deutsch für ein Dictionary in Python, das Namen und Altersangaben enthält:
+
+In Python kannst du ein Dictionary verwenden, um Daten als Paare von Schlüsseln und Werten zu speichern. Ein Dictionary ist eine Sammlung von Elementen, bei denen jedes Element einen Schlüssel (key) und einen Wert (value) hat. Die Schlüssel müssen eindeutig sein, und jeder Schlüssel ist mit einem Wert verknüpft.
+
+Hier ist ein Beispiel:
+
+```
+personen = {
+    "Anna": 25,
+    "Max": 30,
+    "Lena": 22,
+    "Tom": 28
+}
+```
+
+In diesem Beispiel haben wir ein Dictionary namens personen, das vier Einträge enthält. Die Schlüssel sind die Namen der Personen (z.B. „Anna“, „Max“) und die Werte sind ihr Alter (z.B. 25, 30).
+
 # Loops - Schleifen
 
 Im nächsten Abschnitt könnten wir uns Schleifen ansehen. Schleifen wie `for` und `while` ermöglichen es dir, Code wiederholt auszuführen, zum Beispiel um durch Listen zu iterieren oder bestimmte Bedingungen zu erfüllen. Wenn du mehr darüber erfahren möchtest, lass es mich wissen!
