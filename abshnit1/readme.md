@@ -1,6 +1,6 @@
 # Basics 
 
-Natürlich, die Basics in Python umfassen Dinge wie Variablen, Datentypen (wie Strings und Zahlen), Schleifen, Bedingungen und Funktionen. Wenn du zu einem dieser Themen mehr wissen möchtest, helfe ich dir gerne weiter!
+Natürlich, die Grundlagen in Python umfassen Dinge wie Variablen, Datentypen (wie Strings und Zahlen), Schleifen, Bedingungen und Funktionen. Wenn du zu einem dieser Themen mehr erfahren möchtest, helfe ich dir gerne weiter!
 
 # Variables - Variablen
 
